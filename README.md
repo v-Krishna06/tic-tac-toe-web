@@ -16,11 +16,9 @@ A clean and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript
 
 ### Winner Screen
 
-#### Player O Wins
+#### Player Wins
 
 ![Winner O](.screenshots/Winnero.png)
-
-#### Player X Wins
 
 ![Winner X](.screenshots/WinnerX.png)
 
