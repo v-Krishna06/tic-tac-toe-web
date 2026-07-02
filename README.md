@@ -8,19 +8,19 @@ A clean and interactive Tic Tac Toe game built using **HTML, CSS, and JavaScript
 
 ### Home Screen
 
-![Home](.screenshots/Tictactoe-homepage.png)
+![Home](./screenshots/Tictactoe-homepage.png)
 
 ### Gameplay
 
-![Gameplay](.screenshots/Game.png)
+![Gameplay](./screenshots/Game.png)
 
 ### Winner Screen
 
 #### Player Wins
 
-![Winner O](.screenshots/Winnero.png)
+![Winner O](./screenshots/Winnero.png)
 
-![Winner X](.screenshots/WinnerX.png)
+![Winner X](./screenshots/WinnerX.png)
 
 ---
 
